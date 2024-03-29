@@ -1,0 +1,106 @@
+body {
+    background-color: #273238;
+}
+
+h1 {
+    background-color: #FFFFFF;
+    color: #698593;
+    text-align: center;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 70px;
+    font-weight: 100;
+}
+
+h2 {
+    font-size: x-large;
+    font-family: Arial, Gadget, sans-serif;
+    color: #F0D8D0;
+    font-variant: small-caps;
+    font-weight: bolder;
+   
+}
+
+/* <img class="aspiradora" src="/imag/aspiradoras.webp" alt="Aspiradora negra"> */
+
+.aspiradora {
+    border: 4px solid #EED9D0;
+    padding-top: 1px;
+    padding-left: 1px;
+}
+
+/* <h2>Celulares</h2> */ 
+
+.celulares {
+    font-size: x-large;
+    font-family: Arial, Gadget, sans-serif;
+    color: #A8C4CB;
+   font-variant: small-caps;
+   font-weight: bolder;
+}
+
+/* <img class="img_cel" src="/imag/celulares.webp" alt="Celulares iphone"> */
+
+.img_cel {
+    border: 4px solid #A8C4CB;
+    padding-left: 1px;
+ padding-bottom: 1px;
+}
+
+/* <h2>Consolas</h2> */
+
+.consola{
+    font-family: Arial, Gadget, sans-serif;
+    font-size: x-large;
+    color: #FFFFFF;
+    font-variant: small-caps;
+    font-weight: bolder;
+}
+
+/* <img class="img_consola" src="/imag/consola.webp" alt="Consola Ps4"> */
+.img_consola {
+    border: 4px solid #FEFEFE;
+    padding-top: 1px;
+    padding-left: 1px;
+    padding-bottom: 1px;
+}
+
+/*<h2>Home theaters</h2>*/
+
+.home_theater{
+    font-family: Arial, Gadget, sans-serif;
+    font-size: x-large;
+    color: #717680;
+    font-variant: small-caps;
+    font-weight: bolder;
+}
+
+/* <img class="img_home_theater" src="/imag/home-theaters.webp" alt="home-theaters"> */
+
+.img_home_theater{
+    border: 4px solid  #767D89;
+    padding-top: 1px;
+    padding-left: 1px;
+}
+
+/*<h2>Televisores</h2>*/
+
+.televisores {
+    font-family: Arial, Gadget, sans-serif;
+    font-size: x-large;
+    color: #D1CBBC;
+    font-variant: small-caps;
+    font-weight: bolder;
+}
+
+/*<img class="img_televisores" src="/imag/televisores.webp" alt="Televisor en la pared">*/
+
+.img_televisores {
+    border: 4px solid #D1CBBC;
+    padding-bottom: 1px;
+    padding-left: 1px;
+}
+
+p { 
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    color: white;
+}

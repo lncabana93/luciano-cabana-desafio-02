@@ -1,0 +1,82 @@
+body {
+    background-color:  #289688;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: #FCEA3E;
+    font-size: 50px;
+}
+
+.img_barcelola {
+    border: 10px solid white;
+   margin: 10px 5px 5px 10px;
+   
+ 
+    
+}
+
+.img_buenos_aires {
+    border: 10px solid white;
+    margin: 10px 5px 5px 5px;
+   
+   
+   
+}
+
+.img_madrid {
+    border: 10px solid white;
+    margin: 10px 5px 5px 5px;
+     
+   
+   
+}
+
+.img_miami {
+    border: 10px solid white;
+    margin: 10px 5px 5px 5px;
+   
+    
+   
+}
+
+.img_paris {
+    border: 10px solid white;
+    margin: 10px 5px 10px 5px;
+   
+}
+
+.img_pipa {
+    border: 10px solid white;
+    margin: 10px 5px 10px 5px;
+   
+   
+}
+
+.img_rio {
+    border: 10px solid white;
+    margin: 5px 5px 10px 5px;
+   
+}
+
+.img_roma {
+    border: 10px solid white;
+    margin: 5px 5px 10px 5px;
+   
+}
+
+.img_rosario {
+    border: 10px solid white;
+    margin: 5px 5px 10px 5px;
+   
+}
+
+.img_tokio {
+    border: 10px solid white;
+    margin: 5px 5px 10px 5px;
+}
+
+body {
+    text-align: center;
+}

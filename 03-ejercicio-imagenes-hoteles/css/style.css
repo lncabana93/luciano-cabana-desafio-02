@@ -1,0 +1,55 @@
+.disney-hotels {
+    background-color: #fff;
+     width: 25%;
+    border: 1px solid white;
+    margin: 1px 1px 1px 550px;
+}
+
+h1 {
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #C05396;
+    font-weight: lighter;
+    letter-spacing: 15px;
+ 
+}
+    
+h2 {
+ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:  #C05396;
+    font-weight: lighter;
+    letter-spacing: 3px;
+}
+
+.disney_pop {
+    float: right;
+  border-top: 7px solid white;
+  border-right: 4px solid white;
+  border-left: 7px solid white;
+  width: 28%;
+ 
+}
+   
+
+.disney_beach {
+    width: 28%;
+     float: left;
+     border-right: 10px solid white;
+
+}
+
+.kingdom_longde {
+    width: 28%;
+    float: right;
+   border: 5px solid white;
+}
+
+.minie_micky {
+    width: 100%;
+}
+
+p {
+   color: #3263A7;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
